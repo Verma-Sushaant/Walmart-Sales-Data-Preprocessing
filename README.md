@@ -3,8 +3,7 @@
 ## Project Overview
 This end-to-end data analysis project extracts key business insights from Walmart sales data using **Python** for data processing and **MySQL** for data management.
 
-> **Ideal For**: Data analysts looking to build skills in data manipulation, SQL querying, and pipeline creation.  
-> **Submission Deadline**: July 10, 2025
+> **Ideal For**: Data analysts looking to build skills in data manipulation, SQL querying, and pipeline creation.
 
 ---
 
